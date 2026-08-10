@@ -9,5 +9,4 @@ redirect_from:
 
 I am Yeqing Liu, a third-year Ph.D. student in the Strategy group at Duke University's Fuqua School of Business.
 
-My research interests are in strategic human capital.
-
+My research focuses on strategic human capital.
