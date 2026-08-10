@@ -24,9 +24,9 @@ repository               : "yeqing-yl-liu/yeqing-yl-liu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yeqing Liu"
+  name             : 
   pronouns         :
-  bio              : "PhD Student in Strategy"
+  bio              : 
   location         : "Durham, NC"
   employer         : "Duke University"
   uri              :
